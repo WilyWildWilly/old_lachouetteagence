@@ -7,4 +7,4 @@ The use it's meant to have is to be checked out with such tools as Google Lighth
 To do this, connect to https://wilywildwilly.github.io/old_lachouetteagence/index.html and do your measurements.
 Then, connect to the optimized version at https://wilywildwilly.github.io/lachouetteagence/index.html, do the same measurements and check the difference.
 
-Aain, this is not meant for cloning. Even if you've enrolled in the same path of the same school, please use the repo Openclassroom gave you.
+Again, this is not meant for cloning. Even if you've enrolled in the same path of the same school, please use the repo Openclassroom gave you.
